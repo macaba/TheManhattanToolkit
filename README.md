@@ -4,6 +4,8 @@ Electronic circuit prototyping system for reliable rapid prototyping.
 
 Use double sided tape to stick down SMT breakout boards onto a base board. (3M 9084 9mm or 12mm width)
 
+Mount through-hole components directly, sometimes using islands.
+
 ## Base-A-v1
 
 Base board in 160x100mm eurocard form factor. The grid is connected to 0V. There are 4 possible power planes; A/B/C/D. The M3 holes are for generic mounting. The unplated holes are for Schroff front panel brackets to allow prototypes to be easy mounted in a eurocard chassis with an attractive front panel. The narrow empty region at top/bottom are keepout areas to allow the card to slide on chassis rails.
@@ -17,6 +19,10 @@ Sockets along the right edge are 3.5mm pitch pluggable terminal blocks. Socket p
 ## SOIC8-A-v1
 
 <img src="images/SOIC8-A-v1/SOIC8-A-v1-Top.png" width="400"> <img src="images/SOIC8-A-v1/SOIC8-A-v1-Bottom.png" width="400">
+
+## 1.27mm-A-v1
+
+<img src="images/1.27mm-A-v1/1.27mm-A-v1-Top.png" width="400"> <img src="images/1.27mm-A-v1/1.27mm-A-v1-Bottom.png" width="400">
 
 ## Islands4x4-A-v1
 
