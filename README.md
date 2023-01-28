@@ -14,6 +14,20 @@ Sockets along the right edge are 3.5mm pitch pluggable terminal blocks. Socket p
 
 # SOIC8-A-v1
 
-<img src="images/SOIC8-A-v1/SOIC8-A-v1-Top.png" width="400">
+<img src="images/SOIC8-A-v1/SOIC8-A-v1-Top.png" width="400"> <img src="images/SOIC8-A-v1/SOIC8-A-v1-Bottom.png" width="400">
 
-<img src="images/SOIC8-A-v1/SOIC8-A-v1-Bottom.png" width="400">
+# 0603-A-v1
+
+<img src="images/0603-A-v1/0603-A-v1-Top.png" width="250"> <img src="images/0603-A-v1/0603-A-v1-Bottom.png" width="250">
+
+# 0805-A-v1
+
+<img src="images/0805-A-v1/0805-A-v1-Top.png" width="250"> <img src="images/0805-A-v1/0805-A-v1-Bottom.png" width="250">
+
+# 1206-A-v1
+
+<img src="images/1206-A-v1/1206-A-v1-Top.png" width="250"> <img src="images/1206-A-v1/1206-A-v1-Bottom.png" width="250">
+
+# 1210-A-v1
+
+<img src="images/1210-A-v1/1210-A-v1-Top.png" width="250"> <img src="images/1210-A-v1/1210-A-v1-Bottom.png" width="250">
