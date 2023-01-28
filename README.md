@@ -24,6 +24,10 @@ Sockets along the right edge are 3.5mm pitch pluggable terminal blocks. Socket p
 
 <img src="images/1.27mm-A-v1/1.27mm-A-v1-Top.png" width="400"> <img src="images/1.27mm-A-v1/1.27mm-A-v1-Bottom.png" width="400">
 
+## MSOP8-A-v1
+
+<img src="images/MSOP8-A-v1/MSOP8-A-v1-Top.png" width="400"> <img src="images/MSOP8-A-v1/MSOP8-A-v1-Bottom.png" width="400">
+
 ## Islands4x4-A-v1
 
 <img src="images/Islands4x4-A-v1/Islands4x4-A-v1-Top.png" width="200"> <img src="images/Islands4x4-A-v1/Islands4x4-A-v1-Bottom.png" width="200">
