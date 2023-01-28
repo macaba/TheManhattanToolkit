@@ -8,9 +8,9 @@ Mount through-hole components directly, sometimes using islands.
 
 ## Base-A-v1
 
-Base board in 160x100mm eurocard form factor. The grid is connected to 0V. There are 4 possible power planes; A/B/C/D. The M3 holes are for generic mounting. The unplated holes are for Schroff front panel brackets to allow prototypes to be easy mounted in a eurocard chassis with an attractive front panel. The narrow empty region at top/bottom are keepout areas to allow the card to slide on chassis rails.
+4 layer base board in 160x100mm eurocard form factor. The grid is connected to 0V. There are 4 possible power planes which have corresponding connectors; A/B/C/D. There are 8 signal rails which have corresponding connectors; F1/F2/F3/F4/R1/R2/R3/R4 (4 front/4 rear, split into 2 top/2 bottom) typically used for input/output signals. The M3 holes are for generic mounting. The unplated holes are for Schroff front panel brackets to allow prototypes to be easy mounted in a eurocard chassis with an attractive front panel. The narrow empty region at top/bottom are keepout areas to allow the card to slide on chassis rails.
 
-Sockets along the right edge are 3.5mm pitch pluggable terminal blocks. Socket part number: CTBP93HD/3. Plug part number: CTBP92HD/3. The footprint will be compatible with many manufacturers.
+Connectors along the right edge are 3.5mm pitch pluggable terminal blocks. Socket part number: CTBP93HD/3. Plug part number: CTBP92HD/3. The footprint will be compatible with many manufacturers.
 
 <img src="images/Base-A-v1/Base-A-v1-Top.png" width="800">
 
@@ -31,6 +31,10 @@ Sockets along the right edge are 3.5mm pitch pluggable terminal blocks. Socket p
 ## Islands4x4-A-v1
 
 <img src="images/Islands4x4-A-v1/Islands4x4-A-v1-Top.png" width="200"> <img src="images/Islands4x4-A-v1/Islands4x4-A-v1-Bottom.png" width="200">
+
+## SOT23-A-v1
+
+<img src="images/SOT23-A-v1/SOT23-A-v1-Top.png" width="200"> <img src="images/SOT23-A-v1/SOT23-A-v1-Bottom.png" width="200">
 
 ## 0603-A-v1
 
