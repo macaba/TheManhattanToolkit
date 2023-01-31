@@ -4,7 +4,11 @@ Electronic circuit prototyping system for reliable rapid prototyping.
 
 Use double sided tape to stick down SMT breakout boards onto a base board. (3M 9084 9mm or 12mm width)
 
-Mount through-hole components directly, sometimes using islands.
+Use hookup wire or bare tinned copper wire to make connections.
+
+Mount through-hole components directly, sometimes using islands as a convenient landing pad.
+
+Label your boards to ensure you don't forget what they are in future!
 
 ## Base-A-v1
 
