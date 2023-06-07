@@ -20,6 +20,8 @@ Connectors along the right edge are 3.5mm pitch pluggable terminal blocks. Socke
 
 <img src="images/Base-A-v1/Base-A-v1-Bottom.png" width="800">
 
+The parts for mounting to a eurocard front panel are [shown here.](images/Schroff-parts.png)
+
 ## SOIC8-A-v1
 
 <img src="images/SOIC8-A-v1/SOIC8-A-v1-Top.png" width="400"> <img src="images/SOIC8-A-v1/SOIC8-A-v1-Bottom.png" width="400">
