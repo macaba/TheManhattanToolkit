@@ -2,20 +2,29 @@
 
 Electronic circuit prototyping system for reliable rapid prototyping.
 
-Use double sided tape to stick down SMT breakout boards onto a base board. (3M 9084 9mm or 12mm width)
+Use double sided tape to stick down SMT breakout boards onto a base board.
 
 Use hookup wire or bare tinned copper wire to make connections.
 
 Mount through-hole components directly, sometimes using islands as a convenient landing pad.
 
+Use pluggable terminal blocks to make external connections.
+
 Label your boards to ensure you don't forget what they are in future!
 
-## Example accessories:
+## Accessories
 
+[3M 9084 9mm wide double sided tape](https://ie.rs-online.com/web/p/double-sided-tapes/5034632)  
 [0.5mm diameter tinned copper wire](https://cpc.farnell.com/unbranded/tcw25-250g/tinned-copper-wire-25swg/dp/CB00044)  
 [0.71mm teflon tubing](https://cpc.farnell.com/pro-elec/pelb0430/ptfe-teflon-tubing-0-71mm-clear/dp/CB22101)  
 [0.19mm polyurethane coated pencil wire](https://cpc.farnell.com/pro-power/rrw-v-105-pk-4/wire-0-19mm-purple-pk-4/dp/PC01666)  
-[18mm M3 female hex threaded black nylon standoff](https://www.amazon.co.uk/gp/product/B07FS9B4Q1)
+[18mm M3 female hex threaded black nylon standoff](https://www.amazon.co.uk/gp/product/B07FS9B4Q1)  
+[3W 3.5mm pluggable terminal block socket](https://cpc.farnell.com/camdenboss/ctbp93hd-3/term-block-header-8a-3p-3-5mm/dp/CN20920)  
+[3W 3.5mm pluggable terminal block](https://cpc.farnell.com/camdenboss/ctbp92hd-3/terminal-block-pluggable-8a-3p/dp/CN20880)
+
+## Example prototypes
+
+<img src="images/PWMDAC.jpg" width="800">
 
 ## Base-A-v1
 
