@@ -46,6 +46,18 @@ The parts for mounting to a eurocard front panel are [shown here.](images/Schrof
 
 <img src="images/1.27mm-A-v1/1.27mm-A-v1-Top.png" width="400"> <img src="images/1.27mm-A-v1/1.27mm-A-v1-Bottom.png" width="400">
 
+## 1.27mm-B-v1
+
+<img src="images/1.27mm-B-v1/1.27mm-B-v1-Top.png" width="400"> <img src="images/1.27mm-B-v1/1.27mm-B-v1-Bottom.png" width="400">
+
+## 0.65mm-A-v1
+
+<img src="images/0.65mm-A-v1/0.65mm-A-v1-Top.png" width="400"> <img src="images/0.65mm-A-v1/0.65mm-A-v1-Bottom.png" width="400">
+
+## 0.65mm-B-v1
+
+<img src="images/0.65mm-B-v1/0.65mm-B-v1-Top.png" width="400"> <img src="images/0.65mm-B-v1/0.65mm-B-v1-Bottom.png" width="400">
+
 ## MSOP8-A-v1
 
 <img src="images/MSOP8-A-v1/MSOP8-A-v1-Top.png" width="400"> <img src="images/MSOP8-A-v1/MSOP8-A-v1-Bottom.png" width="400">
@@ -77,13 +89,16 @@ The parts for mounting to a eurocard front panel are [shown here.](images/Schrof
 ## Sizes
 
 Base-A-v1 grid unit = 5mm  
-Breakout PCB corner radius = 1mm  
+Breakout PCB corner radius = 0.75mm (new) 1.0mm (old)  
 Breakout pad = 2mm square with 0.25mm corner radius  
 Breakout pad centre to edge distance = 1.5mm (hence 0.5mm clearance between edge of pad and edge of PCB)
 
 (Breakout) - (Width x Height)  
 SOIC8-A-v1 - 20mm x 10.5mm  
 1.27mm-A-v1 - 20mm x 20.5mm  
+1.27mm-B-v1 - 25mm x 35.5mm  
+0.65mm-A-v1 - 20mm x 20.5mm  
+0.65mm-B-v1 - 25mm x 35.5mm  
 MSOP8-A-v1 - 20mm x 10.5mm  
 Islands4x4-A-v1 - 11.5mm x 11.5mm  
 SOT23-A-v1 - 10mm x 8mm  
