@@ -73,3 +73,21 @@ The parts for mounting to a eurocard front panel are [shown here.](images/Schrof
 ## 1210-A-v1
 
 <img src="images/1210-A-v1/1210-A-v1-Top.png" width="200"> <img src="images/1210-A-v1/1210-A-v1-Bottom.png" width="200">
+
+## Sizes
+
+Base-A-v1 grid unit = 5mm  
+Breakout PCB corner radius = 1mm  
+Breakout pad = 2mm square with 0.25mm corner radius  
+Breakout pad centre to edge distance = 1.5mm (hence 0.5mm clearance between edge of pad and edge of PCB)
+
+(Breakout) - (Width x Height)  
+SOIC8-A-v1 - 20mm x 10.5mm  
+1.27mm-A-v1 - 20mm x 20.5mm  
+MSOP8-A-v1 - 20mm x 10.5mm  
+Islands4x4-A-v1 - 11.5mm x 11.5mm  
+SOT23-A-v1 - 10mm x 8mm  
+0603-A-v1 - 10mm x 10.5mm  
+0805-A-v1 - 10mm x 10.5mm  
+1206-A-v1 - 10mm x 10.5mm  
+1210-A-v1 - 10mm x 10.5mm  
