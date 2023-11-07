@@ -22,6 +22,18 @@ Label your boards to ensure you don't forget what they are in future!
 [3W 3.5mm pluggable terminal block socket](https://cpc.farnell.com/camdenboss/ctbp93hd-3/term-block-header-8a-3p-3-5mm/dp/CN20920)  
 [3W 3.5mm pluggable terminal block](https://cpc.farnell.com/camdenboss/ctbp92hd-3/terminal-block-pluggable-8a-3p/dp/CN20880)
 
+## Collection to scale
+
+<img src="images/Base-A-v1/Base-A-v1-Top.png" width="800">
+
+<img src="images/SOIC8-A-v1/SOIC8-A-v1-Top.png" width="100"> <img src="images/MSOP8-A-v1/MSOP8-A-v1-Top.png" width="100">
+
+<img src="images/1.27mm-A-v1/1.27mm-A-v1-Top.png" width="100"> <img src="images/1.27mm-B-v1/1.27mm-B-v1-Top.png" width="125"> <img src="images/0.65mm-A-v1/0.65mm-A-v1-Top.png" width="100"> <img src="images/0.65mm-B-v1/0.65mm-B-v1-Top.png" width="125"> <img src="images/QFN20-A-v1/QFN20-A-v1-Top.png" width="75">
+
+<img src="images/Islands4x4-A-v1/Islands4x4-A-v1-Top.png" width="58"> <img src="images/0603-A-v1/0603-A-v1-Top.png" width="50"> <img src="images/0805-A-v1/0805-A-v1-Top.png" width="50"> <img src="images/1206-A-v1/1206-A-v1-Top.png" width="50"> <img src="images/1210-A-v1/1210-A-v1-Top.png" width="50"> <img src="images/SOT23-A-v1/SOT23-A-v1-Top.png" width="50">
+
+(0.2mm per pixel)
+
 ## Example prototypes
 
 <img src="images/PWMDAC.jpg" width="800">
@@ -57,6 +69,12 @@ The parts for mounting to a eurocard front panel are [shown here.](images/Schrof
 ## 0.65mm-B-v1
 
 <img src="images/0.65mm-B-v1/0.65mm-B-v1-Top.png" width="400"> <img src="images/0.65mm-B-v1/0.65mm-B-v1-Bottom.png" width="400">
+
+## QFN20-A-v1
+
+<img src="images/QFN20-A-v1/QFN20-A-v1-Top.png" width="400"> <img src="images/QFN20-A-v1/QFN20-A-v1-Bottom.png" width="400">
+
+(Tested with TMUX6234)
 
 ## MSOP8-A-v1
 
@@ -99,6 +117,7 @@ SOIC8-A-v1 - 20mm x 10.5mm
 1.27mm-B-v1 - 25mm x 35.5mm  
 0.65mm-A-v1 - 20mm x 20.5mm  
 0.65mm-B-v1 - 25mm x 35.5mm  
+QFN20-A-v1 - 15mm x 20.5mm
 MSOP8-A-v1 - 20mm x 10.5mm  
 Islands4x4-A-v1 - 11.5mm x 11.5mm  
 SOT23-A-v1 - 10mm x 8mm  
