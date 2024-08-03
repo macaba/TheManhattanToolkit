@@ -2,15 +2,11 @@
 
 Electronic circuit prototyping system for reliable rapid prototyping.
 
-Use double sided tape to stick down SMT breakout boards onto a base board.
-
-Use hookup wire or bare tinned copper wire to make connections.
-
-Mount through-hole components directly, sometimes using islands as a convenient landing pad.
-
-Use pluggable terminal blocks to make external connections.
-
-Label your boards to ensure you don't forget what they are in future!
+- Use double sided tape to stick down SMT breakout boards onto a base board.
+- Use hookup wire or bare tinned copper wire to make connections.
+- Mount through-hole components directly, sometimes using islands as a convenient landing pad.
+- Use pluggable terminal blocks to make external connections.
+- Label your boards to ensure you don't forget what they are in future!
 
 ## Accessories
 

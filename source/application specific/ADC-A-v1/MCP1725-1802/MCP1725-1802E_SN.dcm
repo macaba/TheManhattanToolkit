@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1725-1802E_SN
+D 500mA CMOS LDO,Vo=1.8V,,MCP1725-1802E/SN
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22026b.pdf
+$ENDCMP
+#
+#End Doc Library

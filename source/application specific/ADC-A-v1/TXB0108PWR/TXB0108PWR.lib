@@ -1,0 +1,43 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TXB0108PWR
+#/5667/310146/2.50/20/3/Integrated Circuit
+DEF TXB0108PWR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "TXB0108PWR" 950 200 50 H V L CNN
+F2 "SOP65P640X120-20N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/txb0108.pdf" 950 0 50 H I L CNN
+F4 "8-Bit Bidirectional Voltage-Level Shifter with Auto Direction Sensing and +/-15-kV ESD Protect" 950 -100 50 H I L CNN "Description"
+F5 "1.2" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TXB0108PWR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TXB0108PWR" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TXB0108PWR?qs=oFXvjAmG9EgEUWGWzOVFCA%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TXB0108PWR" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/txb0108pwr/texas-instruments?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X A1 1 0 0 200 R 50 50 0 0 P
+X VCCA 2 0 -100 200 R 50 50 0 0 P
+X A2 3 0 -200 200 R 50 50 0 0 P
+X A3 4 0 -300 200 R 50 50 0 0 P
+X A4 5 0 -400 200 R 50 50 0 0 P
+X A5 6 0 -500 200 R 50 50 0 0 P
+X A6 7 0 -600 200 R 50 50 0 0 P
+X A7 8 0 -700 200 R 50 50 0 0 P
+X A8 9 0 -800 200 R 50 50 0 0 P
+X OE 10 0 -900 200 R 50 50 0 0 P
+X B1 20 1100 0 200 L 50 50 0 0 P
+X VCCB 19 1100 -100 200 L 50 50 0 0 P
+X B2 18 1100 -200 200 L 50 50 0 0 P
+X B3 17 1100 -300 200 L 50 50 0 0 P
+X B4 16 1100 -400 200 L 50 50 0 0 P
+X B5 15 1100 -500 200 L 50 50 0 0 P
+X B6 14 1100 -600 200 L 50 50 0 0 P
+X B7 13 1100 -700 200 L 50 50 0 0 P
+X B8 12 1100 -800 200 L 50 50 0 0 P
+X GND 11 1100 -900 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
