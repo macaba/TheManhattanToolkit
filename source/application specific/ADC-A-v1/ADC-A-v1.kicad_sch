@@ -252,7 +252,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U1"
+			(property "Reference" "Ur"
 				(at 27.94 12.7 0)
 				(effects
 					(font
@@ -311,20 +311,18 @@
 					(hide yes)
 				)
 			)
-			(symbol "AD4630-24BBCZ_0_1"
+			(symbol "AD4630-24BBCZ_1_1"
 				(rectangle
-					(start 7.62 7.62)
-					(end 48.26 -48.26)
+					(start 8.255 6.985)
+					(end 48.26 -46.99)
 					(stroke
-						(width 0.1524)
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type background)
 					)
 				)
-			)
-			(symbol "AD4630-24BBCZ_1_1"
 				(pin unspecified line
 					(at 55.88 -5.08 180)
 					(length 7.62)
@@ -741,52 +739,15 @@
 				)
 			)
 			(symbol "AD4630-24BBCZ_2_1"
-				(polyline
-					(pts
-						(xy 7.62 -111.76) (xy 33.02 -111.76)
-					)
+				(rectangle
+					(start 7.62 5.08)
+					(end 33.02 -111.76)
 					(stroke
-						(width 0.127)
+						(width 0)
 						(type default)
 					)
 					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 7.62 -111.76)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 -111.76) (xy 33.02 5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 5.08) (xy 7.62 5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
+						(type background)
 					)
 				)
 				(pin unspecified line
@@ -13534,7 +13495,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dac86d54-f506-4331-a013-51849af98d35")
-		(property "Reference" "U1"
+		(property "Reference" "Ur"
 			(at 344.17 50.165 0)
 			(effects
 				(font
@@ -13771,7 +13732,7 @@
 		(instances
 			(project "ADC-A-v1"
 				(path "/575ab75a-f9eb-460a-bea6-cc97d23e4f1c"
-					(reference "U1")
+					(reference "Ur")
 					(unit 2)
 				)
 			)
