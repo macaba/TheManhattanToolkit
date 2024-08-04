@@ -6679,6 +6679,19 @@
 		(layer "Edge.Cuts")
 		(uuid "daca75d8-2b7d-43c3-a76a-d750eb5f5de3")
 	)
+	(gr_text "The Manhattan Toolkit\nLPF-A-v1"
+		(at 150 110.25 0)
+		(layer "B.SilkS")
+		(uuid "dff10580-a0c4-4a87-a3a4-bdb080f69673")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
 	(gr_text "0V"
 		(at 140.5 117.25 0)
 		(layer "F.SilkS")
