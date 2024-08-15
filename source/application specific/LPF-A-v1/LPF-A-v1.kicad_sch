@@ -2044,7 +2044,7 @@
 		)
 		(uuid "350e2bdd-1d06-40cf-8518-2b501f18b32a")
 	)
-	(text "Do not split\n& prefilter"
+	(text "1. Do not split & prefilter.\n2. PCR very important."
 		(exclude_from_sim no)
 		(at 74.93 70.485 0)
 		(effects
@@ -3593,7 +3593,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2.2k"
 			(at 180.975 95.25 90)
 			(effects
 				(font
@@ -4688,7 +4688,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "220"
 			(at 180.975 80.01 90)
 			(effects
 				(font
@@ -4826,7 +4826,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47n"
+		(property "Value" "10n"
 			(at 193.675 88.8999 0)
 			(effects
 				(font
@@ -5530,7 +5530,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47n"
+		(property "Value" "10n"
 			(at 173.355 88.8999 0)
 			(effects
 				(font
