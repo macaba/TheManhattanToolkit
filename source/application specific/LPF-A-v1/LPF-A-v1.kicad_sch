@@ -1067,12 +1067,6 @@
 		(uuid "07fdd7d4-5701-4a1b-a30a-e9920a0e0e08")
 	)
 	(junction
-		(at 140.97 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2967ac78-cd2e-4f40-ab42-815c22df947f")
-	)
-	(junction
 		(at 102.235 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1196,16 +1190,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 80.01) (xy 142.875 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06ad26e0-620d-48e8-8abc-5ccdd32bf6ab")
-	)
-	(wire
-		(pts
 			(xy 208.28 105.41) (xy 210.82 105.41)
 		)
 		(stroke
@@ -1296,7 +1280,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.255 80.01) (xy 140.97 80.01)
+			(xy 135.255 80.01) (xy 142.875 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1333,6 +1317,16 @@
 			(type default)
 		)
 		(uuid "3043c0a6-b229-4c56-8101-618c8f413f54")
+	)
+	(wire
+		(pts
+			(xy 208.28 132.08) (xy 211.455 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35b063a8-d9cc-4411-9b5b-e01bbab7dc88")
 	)
 	(wire
 		(pts
@@ -1466,6 +1460,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.215 62.23) (xy 92.075 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f9b8692-0cea-41f7-929b-94bc2bbcbc30")
+	)
+	(wire
+		(pts
 			(xy 189.865 118.11) (xy 189.865 119.38)
 		)
 		(stroke
@@ -1596,16 +1600,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 67.945) (xy 140.97 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85c463a9-f2ca-4ba3-b9ab-ca0b6926f76e")
-	)
-	(wire
-		(pts
 			(xy 159.385 73.66) (xy 158.115 73.66)
 		)
 		(stroke
@@ -1643,6 +1637,16 @@
 			(type default)
 		)
 		(uuid "9509967b-05b7-4574-8060-1126a057cc71")
+	)
+	(wire
+		(pts
+			(xy 92.075 62.23) (xy 92.075 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95a76101-50cb-40f1-869c-8242ab7aa547")
 	)
 	(wire
 		(pts
@@ -1926,16 +1930,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 67.945) (xy 154.305 67.945)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eac339e9-566e-4fe4-87ca-a4b670ecff30")
-	)
-	(wire
-		(pts
 			(xy 209.55 124.46) (xy 209.55 125.095)
 		)
 		(stroke
@@ -2186,28 +2180,6 @@
 			)
 		)
 	)
-	(global_label "Debug"
-		(shape input)
-		(at 154.305 67.945 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "63aa1025-2365-4f35-8a5e-aec6531cf521")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0958 67.945 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Out"
 		(shape input)
 		(at 211.455 128.27 0)
@@ -2406,6 +2378,28 @@
 			)
 		)
 	)
+	(global_label "InR"
+		(shape input)
+		(at 211.455 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f1a085db-1978-4844-8ea5-eeff5d5c4cea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 217.464 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "U2 V+"
 		(shape input)
 		(at 174.625 118.11 180)
@@ -2419,6 +2413,28 @@
 		(uuid "f30be8cc-7688-4214-8f26-fb2a9862feff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 165.4712 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "InR"
+		(shape input)
+		(at 69.215 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fe227f97-10a7-4cbf-9a73-fb9dc49fc15a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.206 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2654,7 +2670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 74.295 81.788 90)
 			(effects
 				(font
@@ -5304,6 +5320,71 @@
 			(project "LPF-A-v1"
 				(path "/d3145d82-6a37-4f1e-9453-e65b2855fcb5"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 203.2 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ef281ef2-45ca-4b84-bd6a-337ce9c478c5")
+		(property "Reference" "J8"
+			(at 201.168 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 203.835 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Manhattan:Manhattan-2mm"
+			(at 203.2 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 203.2 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5c4427f4-751e-49ec-a2a1-7193dc282499")
+		)
+		(instances
+			(project "LPF-A-v1"
+				(path "/d3145d82-6a37-4f1e-9453-e65b2855fcb5"
+					(reference "J8")
 					(unit 1)
 				)
 			)
