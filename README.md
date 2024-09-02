@@ -18,6 +18,16 @@ Electronic circuit prototyping system for reliable rapid prototyping.
 [3W 3.5mm pluggable terminal block socket](https://cpc.farnell.com/camdenboss/ctbp93hd-3/term-block-header-8a-3p-3-5mm/dp/CN20920)  
 [3W 3.5mm pluggable terminal block](https://cpc.farnell.com/camdenboss/ctbp92hd-3/terminal-block-pluggable-8a-3p/dp/CN20880)
 
+## Generic boards
+
+The generic boards are standard breakout boards for a variety of component packages.
+
+## Application specific boards
+
+The application specific boards are boards that: 1. add supporting components to a specific part, or 2. perform specific useful functionality.
+
+Example boards include ADC-A-v1 which uses the high precision AD4630-24 ADC, and LPF-A-v1 which provides a DC precise low pass filter function.
+
 ## Collection to scale
 
 <img src="images/generic/Base-A-v1/Base-A-v1-Top.png" width="800">
