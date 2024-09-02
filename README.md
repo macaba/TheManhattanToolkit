@@ -20,13 +20,15 @@ Electronic circuit prototyping system for reliable rapid prototyping.
 
 ## Collection to scale
 
-<img src="images/Base-A-v1/Base-A-v1-Top.png" width="800">
+<img src="images/generic/Base-A-v1/Base-A-v1-Top.png" width="800">
 
-<img src="images/SOIC8-A-v1/SOIC8-A-v1-Top.png" width="100"> <img src="images/MSOP8-A-v1/MSOP8-A-v1-Top.png" width="100">
+<img src="images/generic/SOIC8-A-v1/SOIC8-A-v1-Top.png" width="100"> <img src="images/generic/MSOP8-A-v1/MSOP8-A-v1-Top.png" width="100">
 
-<img src="images/1.27mm-A-v1/1.27mm-A-v1-Top.png" width="100"> <img src="images/1.27mm-B-v1/1.27mm-B-v1-Top.png" width="125"> <img src="images/0.65mm-A-v1/0.65mm-A-v1-Top.png" width="100"> <img src="images/0.65mm-B-v1/0.65mm-B-v1-Top.png" width="125"> <img src="images/QFN20-A-v1/QFN20-A-v1-Top.png" width="75">
+<img src="images/generic/1.27mm-A-v1/1.27mm-A-v1-Top.png" width="100"> <img src="images/generic/1.27mm-B-v1/1.27mm-B-v1-Top.png" width="125"> <img src="images/generic/0.65mm-A-v1/0.65mm-A-v1-Top.png" width="100"> <img src="images/generic/0.65mm-B-v1/0.65mm-B-v1-Top.png" width="125"> <img src="images/generic/QFN20-A-v1/QFN20-A-v1-Top.png" width="75">
 
-<img src="images/Islands4x4-A-v1/Islands4x4-A-v1-Top.png" width="58"> <img src="images/0603-A-v1/0603-A-v1-Top.png" width="50"> <img src="images/0805-A-v1/0805-A-v1-Top.png" width="50"> <img src="images/1206-A-v1/1206-A-v1-Top.png" width="50"> <img src="images/1210-A-v1/1210-A-v1-Top.png" width="50"> <img src="images/SOT23-A-v1/SOT23-A-v1-Top.png" width="50">
+<img src="images/generic/Islands4x4-A-v1/Islands4x4-A-v1-Top.png" width="58"> <img src="images/generic/0603-A-v1/0603-A-v1-Top.png" width="50"> <img src="images/generic/0805-A-v1/0805-A-v1-Top.png" width="50"> <img src="images/generic/1206-A-v1/1206-A-v1-Top.png" width="50"> <img src="images/generic/1210-A-v1/1210-A-v1-Top.png" width="50"> <img src="images/generic/SOT23-A-v1/SOT23-A-v1-Top.png" width="50">
+
+<img src="images/application%20specific/ADC-A-v1/ADC-A-v1-Top.png" width="178"> <img src="images/application%20specific/LPF-A-v1-Top/LPF-A-v1-Top.png" width="160">
 
 (0.2mm per pixel)
 
@@ -40,65 +42,11 @@ Electronic circuit prototyping system for reliable rapid prototyping.
 
 Connectors along the right edge are 3.5mm pitch pluggable terminal blocks. Socket part number: CTBP93HD/3. Plug part number: CTBP92HD/3. The footprint will be compatible with many manufacturers.
 
-<img src="images/Base-A-v1/Base-A-v1-Top.png" width="800">
+<img src="images/generic/Base-A-v1/Base-A-v1-Top.png" width="800">
 
-<img src="images/Base-A-v1/Base-A-v1-Bottom.png" width="800">
+<img src="images/generic/Base-A-v1/Base-A-v1-Bottom.png" width="800">
 
 The parts for mounting to a eurocard front panel are [shown here.](images/Schroff-parts.png)
-
-## SOIC8-A-v1
-
-<img src="images/SOIC8-A-v1/SOIC8-A-v1-Top.png" width="400"> <img src="images/SOIC8-A-v1/SOIC8-A-v1-Bottom.png" width="400">
-
-## 1.27mm-A-v1
-
-<img src="images/1.27mm-A-v1/1.27mm-A-v1-Top.png" width="400"> <img src="images/1.27mm-A-v1/1.27mm-A-v1-Bottom.png" width="400">
-
-## 1.27mm-B-v1
-
-<img src="images/1.27mm-B-v1/1.27mm-B-v1-Top.png" width="400"> <img src="images/1.27mm-B-v1/1.27mm-B-v1-Bottom.png" width="400">
-
-## 0.65mm-A-v1
-
-<img src="images/0.65mm-A-v1/0.65mm-A-v1-Top.png" width="400"> <img src="images/0.65mm-A-v1/0.65mm-A-v1-Bottom.png" width="400">
-
-## 0.65mm-B-v1
-
-<img src="images/0.65mm-B-v1/0.65mm-B-v1-Top.png" width="400"> <img src="images/0.65mm-B-v1/0.65mm-B-v1-Bottom.png" width="400">
-
-## QFN20-A-v1
-
-<img src="images/QFN20-A-v1/QFN20-A-v1-Top.png" width="400"> <img src="images/QFN20-A-v1/QFN20-A-v1-Bottom.png" width="400">
-
-(Tested with TMUX6234)
-
-## MSOP8-A-v1
-
-<img src="images/MSOP8-A-v1/MSOP8-A-v1-Top.png" width="400"> <img src="images/MSOP8-A-v1/MSOP8-A-v1-Bottom.png" width="400">
-
-## Islands4x4-A-v1
-
-<img src="images/Islands4x4-A-v1/Islands4x4-A-v1-Top.png" width="200"> <img src="images/Islands4x4-A-v1/Islands4x4-A-v1-Bottom.png" width="200">
-
-## SOT23-A-v1
-
-<img src="images/SOT23-A-v1/SOT23-A-v1-Top.png" width="200"> <img src="images/SOT23-A-v1/SOT23-A-v1-Bottom.png" width="200">
-
-## 0603-A-v1
-
-<img src="images/0603-A-v1/0603-A-v1-Top.png" width="200"> <img src="images/0603-A-v1/0603-A-v1-Bottom.png" width="200">
-
-## 0805-A-v1
-
-<img src="images/0805-A-v1/0805-A-v1-Top.png" width="200"> <img src="images/0805-A-v1/0805-A-v1-Bottom.png" width="200">
-
-## 1206-A-v1
-
-<img src="images/1206-A-v1/1206-A-v1-Top.png" width="200"> <img src="images/1206-A-v1/1206-A-v1-Bottom.png" width="200">
-
-## 1210-A-v1
-
-<img src="images/1210-A-v1/1210-A-v1-Top.png" width="200"> <img src="images/1210-A-v1/1210-A-v1-Bottom.png" width="200">
 
 ## Sizes
 
