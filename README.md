@@ -28,7 +28,7 @@ Electronic circuit prototyping system for reliable rapid prototyping.
 
 <img src="images/generic/Islands4x4-A-v1/Islands4x4-A-v1-Top.png" width="58"> <img src="images/generic/0603-A-v1/0603-A-v1-Top.png" width="50"> <img src="images/generic/0805-A-v1/0805-A-v1-Top.png" width="50"> <img src="images/generic/1206-A-v1/1206-A-v1-Top.png" width="50"> <img src="images/generic/1210-A-v1/1210-A-v1-Top.png" width="50"> <img src="images/generic/SOT23-A-v1/SOT23-A-v1-Top.png" width="50">
 
-<img src="images/application%20specific/ADC-A-v1/ADC-A-v1-Top.png" width="178"> <img src="images/application%20specific/LPF-A-v1-Top/LPF-A-v1-Top.png" width="160">
+<img src="images/application%20specific/ADC-A-v1/ADC-A-v1-Top.png" width="178"> <img src="images/application%20specific/LPF-A-v1/LPF-A-v1-Top.png" width="160">
 
 (0.2mm per pixel)
 
