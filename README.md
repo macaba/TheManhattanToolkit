@@ -20,7 +20,7 @@ Electronic circuit prototyping system for reliable rapid prototyping.
 
 ## Generic boards
 
-The generic boards are standard breakout boards for a variety of component packages.
+The generic boards are breakout boards for a variety of standard component packages.
 
 ## Application specific boards
 
