@@ -10,6 +10,6 @@ AD4630-24 ADC with supporting components.
 
 ## Components
 
-Input R - RNCF0603DTE10R0 (10 ohm)
-Input CM C - CGA3E1C0G2A472J080AC (4.7nF)
+Input R - RNCF0603DTE10R0 (10 ohm)  
+Input CM C - CGA3E1C0G2A472J080AC (4.7nF)  
 Input DM C - DNP
