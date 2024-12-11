@@ -454,163 +454,6 @@
 				)
 			)
 		)
-		(symbol "Device:C_Polarized_Small"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.254) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 0.254 1.778 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Polarized_Small"
-				(at 0.254 -2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Polarized capacitor, small symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "CP_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "C_Polarized_Small_0_1"
-				(rectangle
-					(start -1.524 -0.3048)
-					(end 1.524 -0.6858)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -1.524 0.6858)
-					(end 1.524 0.3048)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 1.524) (xy -0.762 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.27) (xy -1.016 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "C_Polarized_Small_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 1.8542)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 1.8542)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:C_Small"
 			(pin_numbers hide)
 			(pin_names
@@ -729,154 +572,6 @@
 				(pin passive line
 					(at 0 -2.54 90)
 					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Device:FerriteBead_Small"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "FB"
-				(at 1.905 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "FerriteBead_Small"
-				(at 1.905 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Ferrite bead, small symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "L ferrite bead inductor filter"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "FerriteBead_Small_0_1"
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -0.7874)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0.889) (xy 0 1.2954)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "FerriteBead_Small_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 1.27)
 					(name "~"
 						(effects
 							(font
@@ -1233,12 +928,6 @@
 		)
 	)
 	(junction
-		(at 142.24 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "39d380f8-8172-4406-9b19-1d060226df4c")
-	)
-	(junction
 		(at 129.54 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1249,12 +938,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76f9f05a-ad7e-4f21-ab4d-825b29d33a2c")
-	)
-	(junction
-		(at 152.4 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9612816e-fa9e-4c05-8f42-257e90618bc9")
 	)
 	(junction
 		(at 116.84 91.44)
@@ -1342,7 +1025,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 69.85) (xy 152.4 80.01)
+			(xy 152.4 74.93) (xy 152.4 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1492,16 +1175,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 64.77) (xy 152.4 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d5bd750-18e6-4d5e-b777-0def1da91677")
-	)
-	(wire
-		(pts
 			(xy 236.22 101.6) (xy 241.3 101.6)
 		)
 		(stroke
@@ -1559,16 +1232,6 @@
 			(type default)
 		)
 		(uuid "90503b69-ccc3-4e81-92eb-8b1632c9f731")
-	)
-	(wire
-		(pts
-			(xy 149.86 69.85) (xy 152.4 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93b154d5-bc2c-4cd5-9f18-449545e54953")
 	)
 	(wire
 		(pts
@@ -1662,16 +1325,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 69.85) (xy 144.78 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2eaa336-b71c-49ce-97b2-0b4526a98ae7")
-	)
-	(wire
-		(pts
 			(xy 116.84 91.44) (xy 116.84 93.98)
 		)
 		(stroke
@@ -1729,47 +1382,6 @@
 			(type default)
 		)
 		(uuid "f10b57ea-4928-4f02-b476-a35780a7adb8")
-	)
-	(wire
-		(pts
-			(xy 152.4 57.15) (xy 152.4 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f57116c5-32a6-4cb8-a098-4cb577cf568b")
-	)
-	(wire
-		(pts
-			(xy 142.24 69.85) (xy 142.24 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffd868b1-83c2-4907-915a-9683d4ad91a6")
-	)
-	(text "Datasheet recommends 1μF tantalum\nin parallel with 100nF ceramic, 680nF \nceramic also placed close to\nreference pin"
-		(exclude_from_sim no)
-		(at 156.21 76.835 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "471ba1a4-ef82-4874-b6fc-b0a18ad5ab2a")
-	)
-	(text "Ferrite or low value resistor"
-		(exclude_from_sim no)
-		(at 168.275 66.675 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5ff15272-bf0a-4afc-a6cb-0529a9c9fb63")
 	)
 	(text "R and C values tested in LTspice, settling\ntime is ~50ns to 1LSB (800μV of initial\nvalue), bandwidth is ~206MHz"
 		(exclude_from_sim no)
@@ -1995,7 +1607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 166.37 100.838 90)
 			(effects
 				(font
@@ -2537,7 +2149,7 @@
 				)
 			)
 		)
-		(property "Value" "680nF"
+		(property "Value" "100nF"
 			(at 147.3263 86.36 90)
 			(effects
 				(font
@@ -2545,7 +2157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 147.32 90.17 0)
 			(effects
 				(font
@@ -2858,76 +2470,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 152.4 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a107a96b-6ec7-4f08-a32b-7a066f3b3d7a")
-		(property "Reference" "FB1"
-			(at 154.94 60.9218 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "FerriteBead_Small"
-			(at 154.94 63.4618 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 150.622 62.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 152.4 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 152.4 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4d452989-f3cb-402d-b67a-96c25d81eb7a")
-		)
-		(pin "2"
-			(uuid "bf6f56bd-1259-45fe-b688-e0edc9beb6dc")
-		)
-		(instances
-			(project "ADC-B-v1"
-				(path "/504ec218-cb88-462b-a811-05e6cf14a2b1"
-					(reference "FB1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 238.76 69.85 270)
 		(unit 1)
@@ -3146,7 +2688,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "10μF"
 			(at 147.3263 76.2 90)
 			(effects
 				(font
@@ -3154,7 +2696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 147.32 80.01 0)
 			(effects
 				(font
@@ -3265,7 +2807,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 152.4 57.15 0)
+		(at 152.4 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3274,7 +2816,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb70806c-4800-42ac-942d-8abde1f21c5e")
 		(property "Reference" "#PWR03"
-			(at 152.4 60.96 0)
+			(at 152.4 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3283,7 +2825,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 152.4 52.07 0)
+			(at 152.4 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3291,7 +2833,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.4 57.15 0)
+			(at 152.4 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3300,7 +2842,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 57.15 0)
+			(at 152.4 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3309,7 +2851,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 152.4 57.15 0)
+			(at 152.4 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3354,7 +2896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 186.69 105.918 90)
 			(effects
 				(font
@@ -3391,74 +2933,6 @@
 			(project "ADC-B-v1"
 				(path "/504ec218-cb88-462b-a811-05e6cf14a2b1"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized_Small")
-		(at 147.32 69.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d8695096-d3d5-47ff-b536-f26d656a2184")
-		(property "Reference" "C4"
-			(at 147.8661 63.5 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10μF"
-			(at 147.8661 66.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
-			(at 147.32 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor, small symbol"
-			(at 147.32 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a6a69055-50c8-405e-aa7f-29d6fc6a0025")
-		)
-		(pin "1"
-			(uuid "f73eb11f-baf2-4373-99b3-a200a5090bf2")
-		)
-		(instances
-			(project "ADC-B-v1"
-				(path "/504ec218-cb88-462b-a811-05e6cf14a2b1"
-					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -3557,7 +3031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 111.76 91.44 0)
 			(effects
 				(font
@@ -3834,7 +3308,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 176.53 103.378 90)
 			(effects
 				(font
